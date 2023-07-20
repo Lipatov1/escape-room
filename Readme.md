@@ -1,3 +1,3 @@
 # Проект «Escape Room»
 
-https://escape-room-nine-psi.vercel.app/
+https://escape-room-lipatov1.vercel.app/
