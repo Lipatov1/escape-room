@@ -6,7 +6,9 @@
 - React
 - TypeScript
 - Redux
+- Axios
 - React Hook Form
+- Redux Thunk
 - React Router
 
 ### Demo:
